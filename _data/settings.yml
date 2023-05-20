@@ -13,9 +13,9 @@ menu__settings:
       url: '/'
     - title: 'Features'
       url: '/features/'
-    - title: 'Install Jube via Github'
+    - title: 'Clone Jube from GitHub'
       url: 'https://github.com/jube-home/jube'
-    - title: 'Reade Docs'
+    - title: 'Read the Docs'
       url: 'https://jube-home.github.io/jube/'
 
 #-------------------------------
@@ -62,8 +62,6 @@ footer_menu__settings:
       url: 'https://github.com/jube-home/jube'
     - title: 'Docs'
       url: 'https://jube-home.github.io/jube/'
-    - title: 'Blog'
-      url: '/blog/'
 
 #-------------------------------
 # Google Analytics
