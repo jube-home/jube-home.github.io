@@ -13,12 +13,10 @@ menu__settings:
       url: '/'
     - title: 'Features'
       url: '/features/'
-    - title: 'GitHub'
+    - title: 'Install Jube via Github'
       url: 'https://github.com/jube-home/jube'
-    - title: 'Docs'
+    - title: 'Reade Docs'
       url: 'https://jube-home.github.io/jube/'
-    - title: 'Blog'
-      url: '/blog/'
 
 #-------------------------------
 # Author Settings
