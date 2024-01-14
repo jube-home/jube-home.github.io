@@ -11,18 +11,16 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Features'
-      url: '/features/'
-    - title: 'Clone Jube from GitHub'
+    - title: 'Get Jube'
       url: 'https://github.com/jube-home/jube'
-    - title: 'Read the Docs'
+    - title: 'Read Docs'
       url: 'https://jube-home.github.io/jube/'
 
 #-------------------------------
 # Author Settings
 author:
-  author__name: About Jube
-  author__bio: Jube is born of decades of experience in transaction and event monitoring, which is growing to specialise in the domain's overlap between data engineering and machine learning.
+  author__name: Information about the author of Jube
+  author__bio: Richard Churchman, a seasoned Cloud Architect and Software Developer, is the author, caretaker, and advocate behind Jube. With expertise in implementing high throughput real-time transaction and event monitoring systems, Richard operates at the intersection of Software Engineering, Data Engineering, and Machine Learning.
   author__avatar: '/images/Jube.png'
 
 social:
@@ -43,12 +41,6 @@ hero:
 projects__settings:
   projects__title: Features
   projects__description: Everything to ensure effective real-time transaction and event monitoring.
-
-#-------------------------------
-# Blog Section
-blog__settings:
-  blog__title: Recent Posts
-  blog__description:
 
 #-------------------------------
 # Footer Navigation Settings
