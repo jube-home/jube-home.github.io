@@ -35,8 +35,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Open-Source Transaction and Event Monitoring
-  hero__description: Jube implements real-time data wrangling, machine learning, decision making and case management. Jube is particularly strong when implemented in fraud and abuse detection use cases.
+  hero__title: Open-Source Transaction and Event Monitoring Software
+  hero__description: Jube is an open-source software designed for monitoring transactions and events. It offers a range of powerful features including real-time data wrangling, artificial intelligence, decision making, and case management. Jube's exceptional performance is particularly evident in its application to fraud prevention and abuse detection scenarios.
   hero__image: '/images/Jube.png'
 
 #-------------------------------
