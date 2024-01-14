@@ -2,7 +2,6 @@
 layout: page
 title: Support
 permalink: /support/
-image: '/images/01-2.jpg'
 ---
 
 Free Support is available via [Github Issues](https://github.com/jube-home/jube/issues). Enterprise Support is $990 per month without long term commitment. Enterprise Support is private, direct and dedicated access to the developer via helpdesk ticketing.

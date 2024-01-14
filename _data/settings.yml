@@ -11,9 +11,9 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Get Jube'
+    - title: 'Software'
       url: 'https://github.com/jube-home/jube'
-    - title: 'Read Docs'
+    - title: 'Documentation'
       url: 'https://jube-home.github.io/jube/'
     - title: 'Support'
       url: '/support/'
@@ -51,9 +51,9 @@ footer_menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Get Jube'
+    - title: 'Software'
       url: 'https://github.com/jube-home/jube'
-    - title: 'Read Docs'
+    - title: 'Documentation'
       url: 'https://jube-home.github.io/jube/'
     - title: 'Support'
       url: '/support/'
