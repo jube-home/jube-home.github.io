@@ -1,19 +1,65 @@
 ---
 layout: page
-title: Support
+title: Training and Support
 permalink: /support/
 ---
 
-Free Support is available via [Github Issues](https://github.com/jube-home/jube/issues). Enterprise Support is $990 per month without long term commitment. Enterprise Support is private, direct and dedicated access to the developer via helpdesk ticketing.
+# Training
+Biannually, a training event is conducted at the [Radisson Blu Hotel in Larnaca, Cyprus](https://www.radissonhotels.com/en-us/hotels/radisson-blu-larnaca). The training program focuses on achieving proficiency in the effective utilization of Jube.  The training is delivered by Richard Churchman, the author of Jube.
 
-Enterprise Support is guidance in the use of documented features.  Enterprise Support includes expedited remedy of bugs present in the software as documented.
+The schedule covers a duration of three days, with the length of each day ranging from 6 to 8 hours, depending on the undertaking of Elective Modules. Elective Modules cover in-depth training in advanced administrative concepts using dedicated training servers.  Elective Modules are targeted at technical participants whom are likely to assume overall system administrative responsibility of an implementation of Jube.
 
-The profile of an Enterprise Support user is that of a large organization (e.g. mid to large bank or payment institution) with dedicated access to a software engineering team. Enterprise Support offers a response time within 24 hours, delivered between 9am and 5pm US Central Time (CET).  Enterprise Support does not include production support and Jube can't guarantee emergency responsiveness.
+Day 1:
 
-Integration and expedited feature development is $187 per hour delivered as agreed Statement of Work (SoW).
+* Introduction.
+* User Interface.
+* HTTP Messaging.
+* Models and Payload.
+* Inline Functions.
+* Abstraction Rules.
+* Abstraction Calculations.
+* Lists and Dictionaries.
+* Activation Rules.
+* Elective: Architecture and Caching.
+* Elective: Environment Variables.
+* Elective: Installation and Log Configuration.
 
-Enterprise Support is otherwise governed by the Jube Operations Limited Terms of Service, in matters relating to Insurances, Confidentiality, Warranties and Limitations.
+Day 2:
 
-For users without dedicated access to a software engineering team, Jube has System Integrator and Consulting partners that are skilled in the use of the software.  Partners provide engineering capacity, production support and emergency responsiveness on a retained, time and material basis.
+* Suppressions.
+* Sanctions Fuzzy Matching.
+* Time To Live (TTL) Counters.
+* Introduction to Artificial Intelligence (AI).
+* Exhaustive AI training.
+* Case Management.
+* Security.
+* Elective: Tracing Transaction Flow and Response Time Analysis.
+* Elective: High Availability.
+* Elective: Performance Counters.
+* Elective: AMQP.
 
-For more information, email [support@jube.io](mailto:support@jube.io).
+Day 3:
+
+* SQL database discovery.
+* Performance Monitoring.
+* Visualisation and Reporting.
+* Inline Scripts.
+* Scores via R Plumber (HTTP).
+* Elective: Cache Bottleneck Analysis.
+* Elective: Archive Bottleneck Analysis.
+* Elective: Multi-Tenancy.
+* Elective: Git Definitions Backup and Recovery.
+
+Given a maximum of 8 participants, and a minimum of 4, the total cost of the program is EUR 1395 per attendee, which includes lunch and refreshments. Additionally, participants will have access to four hours of Commercial Support, valid for six months after completion of the program.  The program is available on the subsequent dates:
+
+* In 2024, starting Tuesday December 3rd through end of Thursday December 5th.
+* In 2025, starting Tuesday June 3rd through end of Thursday June 5th.
+
+For further details, including detailed training plan, kindly contact [support@jube.io](mailto:support@jube.io).
+
+Where confidentially considerations exist, the same program can be made available at the client's premises for a daily rate of EUR 800, excluding customary business travel and accommodation costs.
+
+# Support
+Free Support is available via [Github Issues](https://github.com/jube-home/jube/issues).
+
+Commercial support available at a daily rate of EUR 800 prorated. It is uncommon for a client to require more than two days of Commercial Support per month given an active production implementation,  although implementation demands vary depending on client technical proficiency. For further details, please contact [support@jube.io](mailto:support@jube.io).
