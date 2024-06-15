@@ -13,9 +13,9 @@ menu__settings:
       url: '/'
     - title: 'Install Jube'
       url: 'https://github.com/jube-home/jube'
-    - title: 'Documentation'
+    - title: 'Read Documentation'
       url: 'https://jube-home.github.io/jube/'
-    - title: 'Training and Support'
+    - title: 'Get Training and Support'
       url: '/services/'
 
 #-------------------------------
@@ -53,9 +53,9 @@ footer_menu__settings:
       url: '/'
     - title: 'Install Jube'
       url: 'https://github.com/jube-home/jube'
-    - title: 'Documentation'
+    - title: 'Read Documentation'
       url: 'https://jube-home.github.io/jube/'
-    - title: 'Training and Support'
+    - title: 'Get Training and Support'
       url: '/services/'
 
 #-------------------------------
