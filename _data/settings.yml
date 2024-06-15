@@ -15,8 +15,8 @@ menu__settings:
       url: 'https://github.com/jube-home/jube'
     - title: 'Documentation'
       url: 'https://jube-home.github.io/jube/'
-    - title: 'Support'
-      url: '/support/'
+    - title: 'Training and Support'
+      url: '/services/'
 
 #-------------------------------
 # Author Settings
@@ -55,8 +55,8 @@ footer_menu__settings:
       url: 'https://github.com/jube-home/jube'
     - title: 'Documentation'
       url: 'https://jube-home.github.io/jube/'
-    - title: 'Support'
-      url: '/support/'
+    - title: 'Training and Support'
+      url: '/services/'
 
 #-------------------------------
 # Google Analytics

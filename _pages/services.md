@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Training and Support
-permalink: /support/
+permalink: /services/
 ---
 
 # Training
