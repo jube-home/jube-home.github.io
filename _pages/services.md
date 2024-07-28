@@ -3,8 +3,6 @@ layout: page
 title: Training and Support
 permalink: /services/
 ---
-Jube is open-source and free to use.  Training and Support is available for on-premise implementations or use of the multi-tenanted cloud infrastructure (which is priced broadly at cost, but excludes Training and Support).
-
 # Training
 Jube offers a training program that focuses on achieving proficiency in the effective implementation and utilization of Jube. 
 
