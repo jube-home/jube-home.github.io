@@ -3,7 +3,6 @@ layout: page
 title: Training
 permalink: /training/
 ---
-# Training
 The Jube user profile is technically proficient in reading, building and running code.
 
 Jube currently makes a single commercial offer in the form of a training program that focuses on achieving proficiency
