@@ -1,10 +1,15 @@
 ---
 layout: page
-title: Training and Support
-permalink: /services/
+title: Training
+permalink: /training/
 ---
 # Training
-Jube offers a training program that focuses on achieving proficiency in the effective implementation and utilization of Jube.
+The Jube user profile is technically proficient in reading, building and running code.
+
+Jube currently makes a single commercial offer in the form of a training program that focuses on achieving proficiency
+in the effective implementation and utilization of
+Jube. Training returns a significant acceleration in the implementation of Jube in an organisation, while assuring its
+success.
 
 The schedule covers a duration of three days, with the length of each day ranging from 6 to 8 hours, depending on the undertaking of Elective Modules. Elective Modules cover in-depth training in advanced administrative concepts using dedicated training servers.  Elective Modules are targeted at technical participants whom are likely to assume overall system administrative responsibility of an implementation of Jube.
 
@@ -49,6 +54,3 @@ Day 3:
 * Elective: Multi-Tenancy.
 
 Delivered at client site or venue, globally. Fee of USD 3600, excluding travel and expenses. For further details, including the detailed training plan, kindly contact [support@jube.io](mailto:support@jube.io).
-
-# Support
-Free Support is available via [Github Issues](https://github.com/jube-home/jube/issues) on a best endeavour basis. Remote commercial support is available at a daily rate of USD 800 prorated. It is uncommon for a client to require more than two days of Commercial Support per month given an active production implementation,  although implementation demands vary depending on client technical proficiency. For further details, please contact [support@jube.io](mailto:support@jube.io).
